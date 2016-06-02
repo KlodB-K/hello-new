@@ -1,3 +1,3 @@
-# hello-new
+# hello-world
 
 a bit about myself
